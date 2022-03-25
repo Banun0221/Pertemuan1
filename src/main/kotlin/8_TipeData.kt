@@ -16,4 +16,10 @@ fun main() {
     println("maxInt:  " + maxInt)
     println("minLong:  " + minLong)
     println("maxLong: " + maxLong)
+
+    //tipe data bilangan decimal
+    val maxFloat: Float = 9.123456789f
+    val maxDouble: Double = 9.123456789
+    println("maxFloat:" + maxFloat)
+    println("maxDouble:" + maxDouble)
 }
