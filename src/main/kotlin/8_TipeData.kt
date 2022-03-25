@@ -5,8 +5,8 @@ fun main() {
     val maxShort: Short = 32767 // 16bit
     val minInt: Int = -2147483647
     val maxInt: Int = 2147483647 // 32bit
-    val minLong: Long = -92_233_720_366_854_775_807
-    val maxLong: Long = 92_233_720_366_854_775_807 // 64bit
+    val minLong: Long = -92233720366854775807
+    val maxLong: Long = 92233720366854775807 // 64bit
 
     println("minByte: " + minByte)
     println("maxByte: " + maxByte)
